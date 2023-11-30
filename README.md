@@ -15,8 +15,8 @@ This should be interesting...
 
 Each day will be in a folder with the format `day-##`, where `##` is the day number.
 I'll give my thoughts on how it went in a `README.md` file in each folder, as well as what Wakatime says for my time, though I'm not racing the clock at all.
-
-
+The logic will be in lib.rs, with the two parts in part-1.rs and part-2.rs under bin.
+The input will be in a file called input.txt in the day's folder, and the example given will be in example.txt for the tests to use.
 
 
 ### Notes to self
