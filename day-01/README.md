@@ -6,9 +6,9 @@ Part 1 was fairly straightforward. I learned how regex works, and also used .map
 
 ### Time
 
-Initial implementation completed - 23:36
-Bugs fixed - 39:09
-Answer submitted - 40:36
+- Initial implementation completed - 23:36
+- Bugs fixed - 39:09
+- Answer submitted - 40:36
 
 ## Part 2
 
@@ -18,4 +18,4 @@ Maybe I'll come back and look at this later this month when I'm more familiar wi
 
 ### Time
 
-Gave up - 1:32:57
+- Gave up - 1:32:57
