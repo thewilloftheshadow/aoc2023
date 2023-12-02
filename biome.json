@@ -7,6 +7,9 @@
             "generated"
         ]
     },
+    "formatter": {
+        "formatWithErrors": true
+    },
     "linter": {
         "enabled": true,
         "rules": {

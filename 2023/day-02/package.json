@@ -1,5 +1,6 @@
 {
-    "name": "day-xx",
+    "name": "day-02",
+    "type": "module",
     "main": "dist/index.js",
     "scripts": {
         "start": "tsc-watch --onSuccess \"node dist/index.js\"",

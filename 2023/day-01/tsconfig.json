@@ -1,6 +1,6 @@
 {
 	"extends": "../../tsconfig.base.json",
-	"include": ["**/*.ts"],
+	"include": ["index.ts", "final.ts"],
 	"exclude": ["dist", "node_modules"],
 	"compilerOptions": {
 		"outDir": "./dist"
