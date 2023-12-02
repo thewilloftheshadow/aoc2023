@@ -1,5 +1,12 @@
 {
-	"recommendations": [
-		"rust-lang.rust-analyzer"
-	]
+    "recommendations": [
+        "biomejs.biome",
+        "streetsidesoftware.code-spell-checker",
+        "redhat.vscode-yaml",
+        "yzhang.markdown-all-in-one"
+    ],
+    "unwantedRecommendations": [
+        "esbenp.prettier-vscode",
+        "dbaeumer.vscode-eslint"
+    ]
 }

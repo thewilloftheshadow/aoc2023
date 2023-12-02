@@ -1,0 +1,25 @@
+{
+    "name": "aoc2023",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "vitest",
+        "start": "turbo run start",
+        "final": "turbo run final"
+    },
+    "keywords": [],
+    "author": "Shadow",
+    "license": "MIT",
+    "dependencies": {
+        "turbo": "^1.10.16"
+    },
+    "devDependencies": {
+        "@biomejs/biome": "^1.3.3",
+        "@types/node": "^20.10.2",
+        "rimraf": "^5.0.5",
+        "tsc-watch": "^6.0.4",
+        "typescript": "^5.2.2",
+        "vitest": "^0.34.6"
+    }
+}

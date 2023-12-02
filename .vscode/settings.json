@@ -1,8 +1,13 @@
 {
-	"cSpell.words": [
-		"Wakatime"
-	],
-    "cSpell.ignorePaths": [
-        "**/*.txt",
-    ]
+    "dotenv.enableAutocloaking": false,
+    "editor.defaultFormatter": "biomejs.biome",
+    "[yaml]": {
+        "editor.defaultFormatter": "redhat.vscode-yaml"
+    },
+    "[markdown]": {
+        "editor.defaultFormatter": "yzhang.markdown-all-in-one"
+    },
+    "[typescript]": {
+        "editor.defaultFormatter": "biomejs.biome"
+    }
 }
